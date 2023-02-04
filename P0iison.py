@@ -92,7 +92,7 @@ os.system('clear')
 
 sys.stdout.flush()
 
-print(' Poiison xD v1.0')
+print(' PrAx xD v1.0')
 
 count = 0
 
